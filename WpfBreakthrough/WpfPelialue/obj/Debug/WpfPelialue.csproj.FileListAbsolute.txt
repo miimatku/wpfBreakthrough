@@ -1,0 +1,11 @@
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\bin\Debug\WpfPelialue.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\bin\Debug\WpfPelialue.pdb
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue.csprojResolveAssemblyReference.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\Pelialue.baml
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\Pelialue.g.cs
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue_MarkupCompile.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue.g.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue.Properties.Resources.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue.csproj.GenerateResource.Cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfPelialue\obj\Debug\WpfPelialue.pdb

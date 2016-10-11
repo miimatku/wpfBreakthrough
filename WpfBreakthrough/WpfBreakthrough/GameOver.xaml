@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfBreakthrough.GameOver"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GameOver" Height="300" Width="300" >
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Height="91" Width="136" Name="textBlock"/>
+
+    </Grid>
+</Window>

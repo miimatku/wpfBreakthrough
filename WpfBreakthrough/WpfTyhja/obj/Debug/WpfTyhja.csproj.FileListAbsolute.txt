@@ -1,0 +1,11 @@
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\bin\Debug\WpfTyhja.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\bin\Debug\WpfTyhja.pdb
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\TyhjaControl.baml
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\TyhjaControl.g.cs
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja_MarkupCompile.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja.g.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja.Properties.Resources.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja.csproj.GenerateResource.Cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja.pdb
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfTyhja\obj\Debug\WpfTyhja.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\bin\Debug\WpfNappula.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\bin\Debug\WpfNappula.pdb
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula.csprojResolveAssemblyReference.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\NappulaControl.baml
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\NappulaControl.g.cs
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula_MarkupCompile.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula.g.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula.Properties.Resources.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula.csproj.GenerateResource.Cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappula\obj\Debug\WpfNappula.pdb

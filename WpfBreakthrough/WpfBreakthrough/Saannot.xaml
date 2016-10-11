@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfBreakthrough.Saannot"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Saannot" Height="500" Width="600">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" FontSize="16" TextWrapping="Wrap" VerticalAlignment="Top" Height="283" Width="584"><Run Text="Aloitustilanteessa kaksi alinta riviä on täytetty valkeilla nappuloilla ja kaksi ylintä riviä mustilla. Toinen pelaajista pelaa valkeilla, toinen mustilla nappuloilla. Toinen pelaajista aloittaa siirtämällä jotakin nappuloistaan. Sen jälkeen pelaajat siirtävät omia nappuloitaan vuorotellen."/><Run Text=" "/><LineBreak/><Run Text="Valkeita napuloita on mahdollistaa siirtää ainoastaan ylöspäin ja mustia vain alaspäin. Vuoron aikana voidaan siirtää vain yhtä nappulaa, ja sitä voi siirtää eteenpäin yhden ruudun joko suoraan tai vinottain, jos kohderuudussa ei ennestään ole nappulaa. Siirto kuitenkin on mahdollinen myös, jos se tapahtuu vinottain ja kohderuudussa on vastustajan nappula. Tällöin kyseinen vastustajan nappula poistetaan pelilaudalta ja siirtyvä nappula asetetaan ruutuun sen tilalle."/><LineBreak/><Run Text="Ensimmäinen pelaaja, jonka nappula saavuttaa pelaajasta katsoen kauimmaisen rivin tai jonka vastustajan kaikki nappulat joutuvat poistetuiksi laudalta, voittaa pelin."/></TextBlock>
+
+    </Grid>
+</Window>

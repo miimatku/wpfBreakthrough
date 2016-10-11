@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfBreakthrough.Avustus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Avustus" Height="300" Width="300">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="250"><Run Text="Uusi Peli:"/><LineBreak/><Run Text="   - Aloittaa uuden pelin."/><LineBreak/><Run/><LineBreak/><Run Text="Lopeta:"/><LineBreak/><Run Text="   "/><Run Text="-"/><Run Text=" Sammuttaa pelin."/><LineBreak/><Run/><LineBreak/><Run Text="About:"/><LineBreak/><Run Text="   - Tietoja ohjelmasta."/><LineBreak/><Run/><LineBreak/><Run Text="Saannot:"/><LineBreak/><Run Text="  - Pelin saannot."/><LineBreak/><Run/><LineBreak/><Run Text="Avustus:"/><LineBreak/><Run Text="   - Ohjeita."/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
+    </Grid>
+</Window>

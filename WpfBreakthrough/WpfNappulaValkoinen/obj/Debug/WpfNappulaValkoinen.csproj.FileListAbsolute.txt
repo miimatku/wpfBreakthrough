@@ -1,0 +1,11 @@
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\bin\Debug\WpfNappulaValkoinen.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\bin\Debug\WpfNappulaValkoinen.pdb
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen.csprojResolveAssemblyReference.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\NappulaValkoinenControl.baml
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\NappulaValkoinenControl.g.cs
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen_MarkupCompile.cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen.g.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen.Properties.Resources.resources
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen.csproj.GenerateResource.Cache
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen.dll
+C:\kurssit\Graafisten kayttoliittymien ohjelmointi\harkka\WpfBreakthrough\WpfNappulaValkoinen\obj\Debug\WpfNappulaValkoinen.pdb
